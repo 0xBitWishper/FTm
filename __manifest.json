@@ -1,0 +1,27 @@
+{
+    "name": "Fitme | Extrait De Parfume",
+    "short_name": "Fitme",
+    "start_url": "/",
+    "display": "standalone",
+    "scope" : "/",
+    "background_color": "#000000",
+    "theme_color": "#000000",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "assets/img/loading-icon.png",
+            "type": "image/png",
+            "sizes": "72x72"
+        },
+        {
+            "src": "assets/img/loading-icon.png",
+            "type": "image/png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "assets/img/loading-icon.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        }
+    ]
+}
