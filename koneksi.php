@@ -4,8 +4,8 @@
 	$db['default'] = array(
 	'dsn'	=> '',
 	'hostname' => 'localhost',
-	'username' => 'sa',
-	'password' => 'csap234',
+	'username' => '',
+	'password' => '',
 	'database' => '',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
